@@ -16,4 +16,4 @@ Amphibian and reptile specimens at the Natural History Museum, London
 **6. Type status**
 
 **7. Genetic resources**
->Specimens in the herpetology collection have genetic resources associated with them. These resources are limited to archival DNAs for the vast majority of the collection. More recent collections have frozen resouces that may include RNAs and/or cell cultures.   
+>Specimens in the herpetology collection have genetic resources associated with them. These resources are limited to archival DNAs for the vast majority of the collection. More recent collections have frozen resources that may include RNAs and/or cell cultures.   
