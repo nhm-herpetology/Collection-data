@@ -7,7 +7,7 @@ Amphibian and reptile specimens at the Natural History Museum, London
 
 **2. Taxonomy (Class, Order, Family, Species)** 
 
-**3. Locality (Latitude, Longitude, Georeferecing information)** 
+**3. Locality (Latitude, Longitude, Georeferencing information)** 
 
 **4. Collector/donor** 
 
