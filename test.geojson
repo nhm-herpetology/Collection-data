@@ -1,0 +1,30 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.500361,3.36525 ]
+    },
+    "properties": {
+    "Registration_number":2005.1858,
+    "Field_number":"MW 10412",
+    "Class":"Amphibia",
+    "Order":"Anura",
+    "Family":"Arthroleptidae",
+    "Genus":"Leptopelis",
+    "Species":"rufus",
+    "Country":"Equitorial Guinea",
+    "Locality":"Bioko",
+    "Extent":"0",
+    "Notes":"N/A",
+    "Collector_donor":"DJ Gower",
+    "Comments":"altitude 1052; Collected on 17/01/2014",
+    "Type_status":"Non-type",
+    "Genetic_resources":"Frozen (Possible)",
+    "link":"https://nhm.box.com/s/7dy18qodwcypc0v4cdoqgwdlk7yjx2ss"
+    }
+  }
+]
+}
